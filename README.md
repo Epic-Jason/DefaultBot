@@ -5,6 +5,7 @@ A open-source discord bot framework, currently an ongoing project.
 
 Current commands:
 
+
 /help: links this webpage :P
 /ping: pong!
 /changeprefix [args prefix]: changes prefix to [prefix]
