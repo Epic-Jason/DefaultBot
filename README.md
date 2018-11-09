@@ -16,9 +16,10 @@ A open-source discord bot framework, currently an ongoing project.
 /math [(args: number)]: calculates the equation given wrapped between parenthesis: eg: "/math (20+1)"
 
 
-# installation
+# Installation
+Assuming you know how to set up a discord bot on discord's end:
 0. Make sure you have installed node.js correctly
 1. Download this to your server or whatever
 2. Extract the contents of the zip into a folder called "DefaultBot"
-3. run launch.bat. You can change the file from where it reads from by opening launch.bat in a text editor.
+3. Run launch.bat. You can change the file from where it reads from by opening launch.bat in a text editor.
 4. Enjoy!
