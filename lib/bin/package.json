@@ -1,0 +1,21 @@
+{
+	"name": "Defaultbot",
+	"version": "0.0.1",
+	"description": "A nice bot",
+	"directories": {
+		"doc": "./docs",
+		"lib": "./lib",
+		"bin": "./lib/bin"
+	},
+	"main": "./lib/bin/bot.js",
+	"author": {
+		"name": "Jason Oppenheim",
+		"contact": "jason@jasonoppenheim.com",
+		"site": "jasonoppenheim.com"
+	},
+	"dependancies": "{}",
+	"dependencies": {
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"winston": "^3.1.0"
+	}
+}
