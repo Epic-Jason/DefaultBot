@@ -1,1 +1,1 @@
-C:\"Program Files"\nodejs\node.exe C:/DefaultBot/lib/bin/bot.js
+C:\"Program Files"\nodejs\node.exe %~dp0/lib/bin/bot.js
