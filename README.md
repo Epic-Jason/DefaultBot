@@ -12,11 +12,9 @@ A open-source discord bot framework, currently an ongoing project.
 
 /changeprefix [args prefix]: changes prefix to [prefix]
 
-/lewd [args: pony/r34/e621] [args: search, terms]: grabs images from lewd websites. use /lewd to learn more.
-
 /math [(args: number)]: calculates the equation given wrapped between parenthesis: eg: "/math (20+1)"
 
-/boop [optional argument: player name or mention] boops the player mentioned and grabs a pony boop image from derpi!, will also give you boop images on demand
+/boop [optional argument: player name or mention] boops the player mentioned and grabs a cute pony boop image, will also give you boop images on demand
 
 ```
 
